@@ -1,0 +1,4 @@
+User‑agent: *
+Disallow:
+
+Sitemap: https://uvas.pages.dev/sitemap.xml
